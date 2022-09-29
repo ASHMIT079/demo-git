@@ -4,3 +4,6 @@ function test (){
 function test1(){
     console.log("Hii");
 }
+function test2 (){
+    alert('hello')
+}
